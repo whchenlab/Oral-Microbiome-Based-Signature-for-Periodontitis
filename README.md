@@ -7,6 +7,7 @@ Our goal with this work was to find A Universal Oral Microbiome-Based Signature 
 ## Supplementary Methods
 * _**Supplementary methods.pdf**_ The description of supplementary methods.
 
+
 ## Supplementary Figures
 * _**Figure S1**_ The pipeline for metagenomics data collection. 
 
@@ -23,6 +24,9 @@ Our goal with this work was to find A Universal Oral Microbiome-Based Signature 
 * _**Figure S7**_ Evaluation of batch-effect removal tools on the six case-control projects. 
 
 * _**Figure S8**_ The performance of four machine learning algorithms in cross-validation.
+
+* _**Discription of Supplementary Figures.pdf**_ The description of all supplementary figures.
+
 
 ## Supplementary Tables
 * _**Table S1**_ contains Information of the collection datasets. 
@@ -41,7 +45,6 @@ Our goal with this work was to find A Universal Oral Microbiome-Based Signature 
 
 * _**Table S8**_ contains Sequencing depth of all the samples.
 
-* _**Discription of Supplementary Figures.pdf**_ The description of all supplementary figures.
 
 
 
