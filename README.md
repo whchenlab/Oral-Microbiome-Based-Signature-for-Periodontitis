@@ -23,6 +23,7 @@ Our goal with this work was to find A Universal Oral Microbiome-Based Signature 
 
 * _**Table S8**_ contains Sequencing depth of all the samples.
 
+* _**Discription of Supplementary Figures.pdf**_ The description of all supplementary figures.
 
 
 ## Supplementary Figures
@@ -42,4 +43,5 @@ Our goal with this work was to find A Universal Oral Microbiome-Based Signature 
 
 * _**Figure S8**_ The performance of four machine learning algorithms in cross-validation.
 
-## The description of supplementary figures see below file: Discription of Supplementary Figures
+
+
